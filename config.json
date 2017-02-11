@@ -1,0 +1,16 @@
+{
+	"myPort": 1999, 
+	"websocketPort": 2000,
+	"myDomain": "readwrite.club:1999",
+        "userWhitelist": ["frankm"],
+        "where": {
+		"flUseLocalFilesystem": true,
+		"publicPath": "publicFiles/",
+		"privatePath": "privateFiles/"
+		},
+        "homePage": {
+                "googleAnalyticsAccount": "UA-83762620-1"
+                },
+	"twitterConsumerKey": "gna9IvrzsSdazI5kBWXQuXWsD",
+	"twitterConsumerSecret": "xeVeeRrgmWPzlBTtF2b3muhCZB9EAViK06PxUHrAbULk7nAaWy" 
+	}
