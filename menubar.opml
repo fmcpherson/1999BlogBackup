@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>menubar.opml</title>
+		<dateModified>Sun, 12 Feb 2017 20:11:22 GMT</dateModified>
+		<expansionState>1,8</expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>300</windowTop>
+		<windowLeft>700</windowLeft>
+		<windowBottom>900</windowBottom>
+		<windowRight>1500</windowRight>
+		<lastCursor>8</lastCursor>
+		</head>
+	<body>
+		<outline text="FrankNet">
+			<outline text="Web Notes" type="link" url="http://webnotes.frankmcpherson.net/"/>
+			<outline text="My Work Notes" type="link" url="http://readwrite.club:1999/users/frankm/statuscenters/Work%20Notes.html"/>
+			<outline text="Linkblog" type="link" url="http://radio3.io/users/frankm/"/>
+			<outline text="Tech2Watch" type="link" url="http://www.tech2watch.info/"/>
+			<outline text="My RSS Rivers" type="link" url="http://mywebstream.net/"/>
+			</outline>
+		<outline text="1999" created="Wed, 04 May 2016 20:17:38 GMT">
+			<outline text="About 1999..." name="aboutScripting" type="link" url="http://home.1999.io/"/>
+			<outline text="User Community" type="link" url="https://groups.google.com/forum/?utm_medium=email&amp;utm_source=footer#!forum/the-1999io-blogger-community"/>
+			<outline text="River" type="link" url="http://1999bloggers.andysylvester.com/"/>
+			<outline text="List of sites" type="link" url="http://feedly.com/johnphilpin/1999"/>
+			<outline text="Outline of Documentation" type="link" url="http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fjybig60wiguxmfq%2F1999ioBloggingArchive.opml%3Fdl%3D0"/>
+			</outline>
+		<outline text="Archive" created="Tue, 31 May 2016 15:41:38 GMT">
+			<outline text="February 2017" type="link" url="http://readwrite.club:1999/users/frankm/2017/02/"/>
+			<outline text="January 2017" type="link" url="http://readwrite.club:1999/users/frankm/2017/01/"/>
+			<outline text="December 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/12/"/>
+			<outline text="November 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/11/"/>
+			<outline text="October 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/10/"/>
+			<outline text="September 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/09/"/>
+			<outline text="August 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/08/"/>
+			<outline text="July 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/07/"/>
+			<outline text="June 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/06/"/>
+			<outline text="May 2016" type="link" url="http://readwrite.club:1999/users/frankm/2016/05/"/>
+			</outline>
+		<outline text="About" created="Thu, 21 Apr 2016 01:16:26 GMT">
+			<outline text="Frank" type="link" url="http://frankm.org"/>
+			</outline>
+		</body>
+	</opml>
